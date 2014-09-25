@@ -1,0 +1,35 @@
+{
+  "name": "jquery.list-squencer",
+  "version": "0.0.1",
+  "description": "Make list elements appear and disappear in sequence",
+  "main": "index.html",
+  "dependencies": {
+    "bower": "^1.3.11"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.6.0",
+    "grunt-contrib-jasmine": "^0.8.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rowild/jquery.list-sequencer.git"
+  },
+  "keywords": [
+    "jquery",
+    "list",
+    "sequencer"
+  ],
+  "author": "Robert Wildling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rowild/jquery.list-sequencer/issues"
+  },
+  "homepage": "https://github.com/rowild/jquery.list-sequencer"
+}

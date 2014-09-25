@@ -1,0 +1,26 @@
+{
+  "name": "jquery.list-squencer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rowild/jquery.list-sequencer",
+  "authors": [
+    "Robert M Wildling <robertwildling@gmail.com>"
+  ],
+  "description": "Make list elements appear and disapear sequentially",
+  "main": "indexlo.html",
+  "keywords": [
+    "jquery",
+    "list",
+    "sequencer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
